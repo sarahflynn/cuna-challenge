@@ -5,7 +5,7 @@ const Header = () => {
   return (
     <AppBar position="static">
       <Toolbar>
-        <a href='/'><img src={logo} alt='CUNA Mutual logo' /></a>
+        <a href='/insurance/autohome/quote'><img src={logo} alt='CUNA Mutual logo' /></a>
       </Toolbar>
     </AppBar>
   );
